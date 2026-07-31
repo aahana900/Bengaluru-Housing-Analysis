@@ -98,10 +98,10 @@ The dashboard consists of three interactive pages:-
 ![Dashboard Overview](Dashboard_Screenshots/Overview.png)
 
 # Affordability & Value
-![Affordability & Value](Dashboard_Screenshots/Affordability%20and%20Value.png)
+![Affordability & Value](Dashboard_Screenshots/Affordability%20%26%20Value.png)
 
 # Readiness & Size Configuration
-![Readiness & Size%20Configuration](Dashboard_Screenshots/Readiness%20and%20Size%20Configuration.png)
+![Readiness & Size configuration](Dashboard_Screenshots/Readiness%20%26%20Size%20configuration.png)
 
 
 
